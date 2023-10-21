@@ -1,0 +1,12 @@
+<!-- res/menu/menu_emergente.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_abrir_detalle"
+        android:title="Abrir detalle"/>
+    <item
+        android:id="@+id/action_compartir"
+        android:title="Compartir"/>
+    <item
+        android:id="@+id/action_preguntas"
+        android:title="Preguntas"/>
+</menu>
